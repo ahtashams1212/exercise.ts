@@ -1,5 +1,5 @@
 # exercise.ts
-Textbooks for learning typescript
+Textbooks 
 Chapters 2-6, 13 of JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages
 
 Chapters 1-11 of Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript
